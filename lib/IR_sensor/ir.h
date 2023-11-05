@@ -3,8 +3,8 @@
 
 #include <stdint.h>
 
-#define RIGHT_IR_PIN 26
-#define LEFT_IR_PIN 27
+#define RIGHT_IR_PIN 27
+#define LEFT_IR_PIN 26
 
 extern volatile uint8_t ir_value;
 
